@@ -22,18 +22,20 @@
     "url": "https://isoffline.grahamsh.com/status/grahamsh",
     "icon": "https://icons.duckduckgo.com/ip3/isoffline.grahamsh.com.ico",
     "slug": "is-offline",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 225,
-    "timeWeek": 225,
-    "timeMonth": 225,
-    "timeYear": 225,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "85.02%",
+    "uptimeDay": "85.02%",
+    "uptimeWeek": "85.02%",
+    "uptimeMonth": "85.02%",
+    "uptimeYear": "85.02%",
+    "time": 202,
+    "timeDay": 202,
+    "timeWeek": 202,
+    "timeMonth": 202,
+    "timeYear": 202,
+    "dailyMinutesDown": {
+      "2023-01-16": 22
+    }
   },
   {
     "name": "Ejenda",
