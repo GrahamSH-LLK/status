@@ -22,19 +22,19 @@
     "url": "https://isoffline.grahamsh.com/status/grahamsh",
     "icon": "https://icons.duckduckgo.com/ip3/isoffline.grahamsh.com.ico",
     "slug": "is-offline",
-    "status": "down",
-    "uptime": "72.51%",
-    "uptimeDay": "72.51%",
-    "uptimeWeek": "72.51%",
-    "uptimeMonth": "72.51%",
-    "uptimeYear": "72.51%",
-    "time": 221,
-    "timeDay": 221,
-    "timeWeek": 221,
-    "timeMonth": 221,
-    "timeYear": 221,
+    "status": "up",
+    "uptime": "71.51%",
+    "uptimeDay": "71.51%",
+    "uptimeWeek": "71.51%",
+    "uptimeMonth": "71.51%",
+    "uptimeYear": "71.51%",
+    "time": 220,
+    "timeDay": 220,
+    "timeWeek": 220,
+    "timeMonth": 220,
+    "timeYear": 220,
     "dailyMinutesDown": {
-      "2023-01-16": 137
+      "2023-01-16": 144
     }
   },
   {
