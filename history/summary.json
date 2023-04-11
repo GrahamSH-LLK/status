@@ -43,19 +43,19 @@
     "url": "https://ejenda.org",
     "icon": "https://icons.duckduckgo.com/ip3/ejenda.org.ico",
     "slug": "ejenda",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "93.89%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "93.39%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.92%",
     "time": 370,
     "timeDay": 345,
-    "timeWeek": 788,
-    "timeMonth": 427,
+    "timeWeek": 738,
+    "timeMonth": 424,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2023-04-11": 51,
+      "2023-04-11": 58,
       "2023-04-10": 37
     }
   }
