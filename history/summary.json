@@ -6,9 +6,9 @@
     "slug": "graham-sh-com",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 143,
     "timeDay": 115,
@@ -16,7 +16,7 @@
     "timeMonth": 141,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2023-09-06": 0
+      "2023-09-06": 12
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 188,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2023-09-06": 657,
+      "2023-09-06": 668,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
