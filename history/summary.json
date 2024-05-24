@@ -29,14 +29,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "3.73%",
+    "uptimeYear": "3.71%",
     "time": 172,
     "timeDay": 132,
     "timeWeek": 108,
     "timeMonth": 106,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2024-05-24": 49,
+      "2024-05-24": 196,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
@@ -396,9 +396,9 @@
     "url": "https://ejenda.org",
     "icon": "https://icons.duckduckgo.com/ip3/ejenda.org.ico",
     "slug": "ejenda",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -407,6 +407,8 @@
     "timeWeek": 445,
     "timeMonth": 423,
     "timeYear": 366,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-24": 0
+    }
   }
 ]
