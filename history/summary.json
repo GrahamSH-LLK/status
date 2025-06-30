@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 181,
-    "timeWeek": 212,
-    "timeMonth": 256,
+    "timeDay": 261,
+    "timeWeek": 224,
+    "timeMonth": 257,
     "timeYear": 204,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/isoffline.grahamsh.com.ico",
     "slug": "is-offline",
     "status": "down",
-    "uptime": "15.80%",
+    "uptime": "15.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 118,
-    "timeDay": 128,
-    "timeWeek": 145,
-    "timeMonth": 137,
+    "timeDay": 172,
+    "timeWeek": 159,
+    "timeMonth": 139,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2025-06-29": 912,
+      "2025-06-30": 76,
+      "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -397,8 +398,7 @@
       "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
-      "2024-07-01": 1440,
-      "2024-06-30": 1440
+      "2024-07-01": 1440
     }
   },
   {
@@ -413,8 +413,8 @@
     "uptimeMonth": "98.86%",
     "uptimeYear": "89.77%",
     "time": 411,
-    "timeDay": 351,
-    "timeWeek": 388,
+    "timeDay": 358,
+    "timeWeek": 390,
     "timeMonth": 422,
     "timeYear": 417,
     "dailyMinutesDown": {
