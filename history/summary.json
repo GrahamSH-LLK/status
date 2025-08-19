@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 218,
-    "timeWeek": 309,
-    "timeMonth": 289,
-    "timeYear": 217,
+    "time": 209,
+    "timeDay": 510,
+    "timeWeek": 321,
+    "timeMonth": 300,
+    "timeYear": 218,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/isoffline.grahamsh.com.ico",
     "slug": "is-offline",
     "status": "down",
-    "uptime": "14.97%",
+    "uptime": "14.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 122,
-    "timeDay": 154,
-    "timeWeek": 163,
+    "time": 123,
+    "timeDay": 137,
+    "timeWeek": 161,
     "timeMonth": 138,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2025-08-18": 77,
+      "2025-08-19": 70,
+      "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -397,8 +398,7 @@
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
-      "2024-08-20": 1440,
-      "2024-08-19": 1440
+      "2024-08-20": 1440
     }
   },
   {
@@ -407,16 +407,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ejenda.org.ico",
     "slug": "ejenda",
     "status": "up",
-    "uptime": "96.01%",
+    "uptime": "96.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.27%",
+    "uptimeYear": "90.42%",
     "time": 417,
-    "timeDay": 359,
-    "timeWeek": 504,
-    "timeMonth": 441,
-    "timeYear": 417,
+    "timeDay": 351,
+    "timeWeek": 469,
+    "timeMonth": 439,
+    "timeYear": 415,
     "dailyMinutesDown": {
       "2025-07-14": 44,
       "2025-06-29": 31,
@@ -470,8 +470,7 @@
       "2024-08-23": 1440,
       "2024-08-22": 1426,
       "2024-08-21": 1440,
-      "2024-08-20": 604,
-      "2024-08-19": 315
+      "2024-08-20": 604
     }
   }
 ]
