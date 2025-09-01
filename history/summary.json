@@ -4,19 +4,19 @@
     "url": "https://grahamsh.com",
     "icon": "https://icons.duckduckgo.com/ip3/grahamsh.com.ico",
     "slug": "graham-sh-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 180,
-    "timeWeek": 289,
-    "timeMonth": 316,
+    "timeDay": 194,
+    "timeWeek": 281,
+    "timeMonth": 313,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-09-01": 0
+      "2025-09-01": 14
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 180,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2025-09-01": 655,
+      "2025-09-01": 669,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
