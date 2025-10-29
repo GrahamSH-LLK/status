@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 224,
-    "timeDay": 374,
-    "timeWeek": 283,
-    "timeMonth": 308,
+    "timeDay": 256,
+    "timeWeek": 279,
+    "timeMonth": 309,
     "timeYear": 239,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/isoffline.grahamsh.com.ico",
     "slug": "is-offline",
     "status": "down",
-    "uptime": "13.92%",
+    "uptime": "13.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 132,
-    "timeDay": 186,
-    "timeWeek": 159,
-    "timeMonth": 148,
+    "timeDay": 114,
+    "timeWeek": 145,
+    "timeMonth": 144,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2025-10-28": 980,
+      "2025-10-29": 71,
+      "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
@@ -397,8 +398,7 @@
       "2024-11-02": 1440,
       "2024-11-01": 1440,
       "2024-10-31": 1440,
-      "2024-10-30": 1440,
-      "2024-10-29": 1440
+      "2024-10-30": 1440
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ejenda.org.ico",
     "slug": "ejenda",
     "status": "down",
-    "uptime": "95.76%",
-    "uptimeDay": "99.99%",
+    "uptime": "95.72%",
+    "uptimeDay": "63.15%",
     "uptimeWeek": "31.52%",
-    "uptimeMonth": "82.08%",
+    "uptimeMonth": "80.87%",
     "uptimeYear": "91.65%",
     "time": 427,
-    "timeDay": 2323,
-    "timeWeek": 796,
-    "timeMonth": 540,
-    "timeYear": 430,
+    "timeDay": 659,
+    "timeWeek": 813,
+    "timeMonth": 537,
+    "timeYear": 431,
     "dailyMinutesDown": {
-      "2025-10-28": 0,
+      "2025-10-29": 71,
+      "2025-10-28": 460,
       "2025-10-26": 683,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
@@ -463,8 +464,7 @@
       "2024-11-02": 1440,
       "2024-11-01": 1440,
       "2024-10-31": 1440,
-      "2024-10-30": 1440,
-      "2024-10-29": 1440
+      "2024-10-30": 1440
     }
   }
 ]
