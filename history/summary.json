@@ -22,18 +22,20 @@
     "url": "https://frctools.com",
     "icon": "https://icons.duckduckgo.com/ip3/frctools.com.ico",
     "slug": "frc-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 673,
-    "timeDay": 996,
-    "timeWeek": 751,
-    "timeMonth": 675,
-    "timeYear": 673,
-    "dailyMinutesDown": {}
+    "time": 667,
+    "timeDay": 739,
+    "timeWeek": 717,
+    "timeMonth": 669,
+    "timeYear": 667,
+    "dailyMinutesDown": {
+      "2026-01-04": 0
+    }
   },
   {
     "name": "FRCTools Orders",
