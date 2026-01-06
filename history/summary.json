@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 204,
-    "timeWeek": 199,
+    "timeDay": 265,
+    "timeWeek": 209,
     "timeMonth": 244,
-    "timeYear": 253,
+    "timeYear": 254,
     "dailyMinutesDown": {}
   },
   {
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/frctools.com.ico",
     "slug": "frc-tools",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "96.54%",
+    "uptime": "99.90%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 692,
-    "timeDay": 898,
-    "timeWeek": 825,
-    "timeMonth": 694,
+    "timeDay": 716,
+    "timeWeek": 823,
+    "timeMonth": 701,
     "timeYear": 692,
     "dailyMinutesDown": {
       "2026-01-04": 50
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 143,
-    "timeDay": 80,
-    "timeWeek": 149,
-    "timeMonth": 143,
-    "timeYear": 143,
+    "time": 142,
+    "timeDay": 111,
+    "timeWeek": 153,
+    "timeMonth": 145,
+    "timeYear": 142,
     "dailyMinutesDown": {}
   }
 ]
