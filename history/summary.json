@@ -22,17 +22,17 @@
     "url": "https://frctools.com",
     "icon": "https://icons.duckduckgo.com/ip3/frctools.com.ico",
     "slug": "frc-tools",
-    "status": "down",
-    "uptime": "98.53%",
-    "uptimeDay": "92.47%",
-    "uptimeWeek": "84.40%",
-    "uptimeMonth": "89.30%",
-    "uptimeYear": "98.53%",
-    "time": 794,
-    "timeDay": 889,
-    "timeWeek": 1094,
-    "timeMonth": 984,
-    "timeYear": 794,
+    "status": "up",
+    "uptime": "98.47%",
+    "uptimeDay": "80.69%",
+    "uptimeWeek": "81.64%",
+    "uptimeMonth": "88.66%",
+    "uptimeYear": "98.47%",
+    "time": 796,
+    "timeDay": 962,
+    "timeWeek": 1135,
+    "timeMonth": 998,
+    "timeYear": 796,
     "dailyMinutesDown": {
       "2026-01-04": 50,
       "2026-01-14": 28,
@@ -52,7 +52,7 @@
       "2026-10-05": 45,
       "2026-10-16": 1077,
       "2026-10-15": 496,
-      "2026-10-17": 0
+      "2026-10-17": 278
     }
   },
   {
